@@ -3,5 +3,3 @@
 ###unit
 *trikardou*
 **eleni**
-*maria
-*katia
